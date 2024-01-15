@@ -1,6 +1,6 @@
 Algorithm Analysis Project: Network Topology Optimization
 
-We would like to extend our appreciation to Dr. Evrim Güler [  (https://github.com/evrimguler) ], our esteemed teacher, for his invaluable guidance and challenging assignments that have prepared us for this project. We are three dedicated students - Alper Akkaya, Alkın Şahin and Kutay Yeşilyurt - collaborating on a Python-based project for our Algorithm Analysis class.
+We would like to extend our appreciation to Dr. Evrim Güler [  (https://github.com/evrimguler) ], our esteemed teacher, for his invaluable guidance and challenging assignments that have prepared us for this project. We are three dedicated students - Alper Akkaya ( 210212027 ), Alkın Şahin ( 200218020 ) and Kutay Yeşilyurt ( 200218022 ) - collaborating on a Python-based project for our Algorithm Analysis class.
 
 Project Overview:
 Our project revolves around optimizing a US backbone topology comprising 24 nodes and 43 edges. The input file includes adjacency, bandwidth, delay, and reliability matrices. The matrices are separated by colons, with each matrix separated by an empty row. Noteworthy points include:
@@ -28,12 +28,14 @@ In the given equation, Graph (G) comprises vertices and edges (G=(V,E)). For two
 bw: Bandwidth demand.
 𝛿𝑖𝑗: Binary indicator, 1 if edge (i, j) is used, 0 otherwise.
 𝑑𝑖𝑠𝑡𝑖𝑗: Edge distances between i and j.
+
 Input File:
-[USNET-text.txt]
+[text.txt]
 
 Feel free to explore our GitHub profiles for more details:
 
 Alper Akkaya's GitHub [ (https://github.com/AlperBekir) ]
 Alkın Şahin's GitHub [ (https://github.com/SaaazDack77) ]
 Kutay Yeşilyurt's GitHub [ (https://github.com/KutisTR) ]
+
 We look forward to presenting the results of our project and appreciate the opportunity to apply our algorithmic skills to real-world scenarios.
