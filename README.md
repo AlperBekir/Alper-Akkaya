@@ -1,4 +1,6 @@
-*Alper Akkaya 210212027 Algorithm Analysis Project: 
+Alper Akkaya 210212027 
+
+Algorithm Analysis Project: 
 Network Topology Optimization
 
 We would like to extend our appreciation to Dr. Evrim Güler [  (https://github.com/evrimguler) ], our esteemed teacher, for his invaluable guidance and challenging assignments that have prepared us for this project. We are three dedicated students - Alper Akkaya ( 210212027 ), Alkın Şahin ( 200218020 ) and Kutay Yeşilyurt ( 200218022 ) - collaborating on a Python-based project for our Algorithm Analysis class.
